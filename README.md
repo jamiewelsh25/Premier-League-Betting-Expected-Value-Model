@@ -1,8 +1,8 @@
 ## Premier League EV Model
 
-This project uses a Poisson model with home and away strength ratings based on 2023/24 season form to estimate the probabilities of all three outcomes of upcoming English Premier League matches.
+Tired of relying on gut feeling or generic predictions? This project brings you a powerful tool for analysing upcoming English Premier League matches. It uses a unique Poisson model that considers each team's home and away form based on the current season's data. Get data-driven win, draw, and loss probabilities to inform your bets or fantasy picks!
 
-In order to generate an expected value for a bet, run the following script:
+You will need to have Python 3.8 or higher installed along with NumPy, Pandas, SciPy and Selenium to run my code. In order to generate an expected value for a bet, run the following script:
 
 python main.py 'Home Team' 'Away Team' Result Odds
 
