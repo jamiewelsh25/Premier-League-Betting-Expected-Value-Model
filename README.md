@@ -29,3 +29,5 @@ When entering the home and away team names, use the following strings:
 'Spurs',
 'West Ham',
 'Wolves'
+
+The result_predictor.ipynb notebook is included in the repo so that you can see how the Poisson results model works step-by-step. 
